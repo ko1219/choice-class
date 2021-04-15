@@ -33,17 +33,26 @@ const Curriculums = () => {
 
   useEffect(() => {
     axios
-      .get("/api/v1/curriculums.json")
+      .get('/api/v1/curriculums.json')
       .then((resp) => {
-        setCurriculums(resp.data.data);
+        setCurriculums(resp.data.data)
       })
-      .catch( data  => console.log('error', data));
+      .catch( data  => console.log('error', data))
   }, []);
 
-  const grid = curriculums.map((curriculum, index) => {
-    const { name, slug, avg_score } = curriculum.attributes;
-    return <Curriculum key={index} name={name} slug={slug} avg_score={avg_score} />;
-  });
+  const grid = curriculums.map( (curriculum, index) => {
+    const { name, slug, avg_score } = curriculum.attributes
+
+    return (
+      <Curriculum
+        key={index}
+        name={name}
+        slug={slug}
+        avg_score={avg_score}
+      />
+    )
+  })
+
 
   return (
     <Fragment>
