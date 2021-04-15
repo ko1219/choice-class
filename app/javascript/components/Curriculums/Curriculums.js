@@ -37,8 +37,8 @@ const Curriculums = () => {
       .then((resp) => {
         setCurriculums(resp.data.data);
       })
-      .catch((resp) => console.log(resp));
-  }, [curriculums.length]);
+      .catch( data  => console.log('error', data));
+  }, []);
 
   const grid = curriculums.map((curriculum, index) => {
     const { name, slug, avg_score } = curriculum.attributes;
