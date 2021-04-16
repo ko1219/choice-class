@@ -1,5 +1,4 @@
 import React from "react";
-import './App.css'
 import { Route, Switch } from "react-router-dom";
 import Curriculums from "./Curriculums/Curriculums";
 import Curriculum from "./Curriculum/Curriculum";
