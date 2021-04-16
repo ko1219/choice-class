@@ -10,7 +10,7 @@
 
 ## ![Curriculums Home](https://i.gyazo.com/8ac1a5a228a42c352fbd10b5839091b0.png)
 
-![Curriculums Show](https://gyazo.com/1123973e42c66306e35193da7f47a8bf)
+## ![Curriculums Show](https://i.gyazo.com/92829b54092296e3eddd5290a267a09e.png)
 
 ---
 
