@@ -8,7 +8,7 @@
 
 ---
 
-## ![Curriculums Home](https://gyazo.com/d02b016e05f7ba945070c4921d834e8a)
+## ![Curriculums Home](https://i.gyazo.com/8ac1a5a228a42c352fbd10b5839091b0.png)
 
 ![Curriculums Show](https://gyazo.com/1123973e42c66306e35193da7f47a8bf)
 
