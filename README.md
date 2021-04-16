@@ -6,18 +6,17 @@
 このアプリは単純なCRUDアプリです。 **Webpacker** を用いて **Ruby on Rails** と **React.js** で開発しました。 
 
 ---
-![Curriculums Home]()
+![Curriculums Home](https://gyazo.com/d02b016e05f7ba945070c4921d834e8a)
 ---
-![Curriculums Show]()
-
+![Curriculums Show](https://gyazo.com/1123973e42c66306e35193da7f47a8bf)
 
 ---
 
 This app uses:
 
-* Ruby version: `2.7`
-* Rails version: `6.0.3.4`
-* Database: `postgresql`
+* Ruby version: `2.6.5`
+* Rails version: `6.0.3.6`
+* Database: `mysql`
 * React version: `16.12.0`
 * React Hooks API
 * React Context API
