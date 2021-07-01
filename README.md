@@ -1,6 +1,7 @@
 # README
 
 ## Choice Class
+https://choice-class.herokuapp.com/
 
 ### Review of Tokoha University's curriculums app built with Ruby on Rails and React.js
 
