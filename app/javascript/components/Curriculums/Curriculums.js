@@ -59,7 +59,7 @@ const Curriculums = () => {
       <Home>
         <Header>
           <h1>ChoiceClass</h1>
-          <Subheader>Honest, unbiased curriculum reviews.</Subheader>
+          <Subheader>Tokoha University's curriculum reviews.</Subheader>
         </Header>
         <Grid>{grid}</Grid>
       </Home>
